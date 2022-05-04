@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/LTTBDDbanhang/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/LTTBDDbanhang/app/src/main/res/layout/item_custom_list_view.xml" value="0.536" />
         <entry key="..\:/ListViewDemo/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
         <entry key="..\:/ListViewDemo/app/src/main/res/layout/item_custom_list_view.xml" value="0.25" />
         <entry key="..\:/ListViewDemo/app/src/main/res/layout/item_listview_custom.xml" value="0.4677734375" />

@@ -11,11 +11,12 @@
         android:id="@+id/textView"
         android:layout_width="363dp"
         android:layout_height="38dp"
+        android:layout_marginTop="57dp"
         android:text="Bạn có thắc mắc với sản phẩm vừa xem. Đừng ngại chat với shop,"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="57dp" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ListView
         android:id="@+id/idlistview"
